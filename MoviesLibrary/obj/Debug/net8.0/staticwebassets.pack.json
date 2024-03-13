@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\MoviesLibrary\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MoviesLibrary.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MoviesLibrary.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Projects\\MoviesLibrary\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Projects\\MoviesLibrary\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\MoviesLibrary\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\MoviesLibrary\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MoviesLibrary.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MoviesLibrary.props",
+      "PackagePath": "build\\MoviesLibrary.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MoviesLibrary.props",
+      "PackagePath": "buildMultiTargeting\\MoviesLibrary.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MoviesLibrary.props",
+      "PackagePath": "buildTransitive\\MoviesLibrary.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
